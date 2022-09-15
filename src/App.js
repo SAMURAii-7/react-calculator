@@ -1,3 +1,9 @@
+//
+//
+//      Checkout the Github repo here: https://github.com/SAMURAii-7/react-calculator
+//
+//      Checkout the deployed app here: https://react-calculator-bay-three.vercel.app/
+//
 import "./App.css";
 import { useReducer } from "react";
 import DigitButton from "./components/DigitButton";
